@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Mathematics, University of California, Santa Barbara, 2024 (expected)
+* B.S., Mathematics, California State University, Northridge, 2019
+* A.S.T., Mathematics, College of the Canyons, Santa Clarita, California, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student TA at University of California, Santa Barbara (September 2019-present)
+  * Led sections in Calculus and Calculus for Social and Life sciences. Taught concepts, prepared practice worksheets, guided discussion, proctored quizzes.
+* Mathematics Instructor at Gorman Learning Center (September 2014 - June 2019)
+  * High school math teacher. Sole responsibility for instruction of 5 classes. Assigned homework, gave lectures, chose and wrote tests, scored assignments and tests. Taught Geometry all 5 years, and Pre-Calculus and Recreational Mathematics (a class I designed for a few interested students) one year each.
+* Private Math Tutor (2008-present)
+  * Tutored in all levels of mathematics. Topics include arithmetic, algebra, geometry, pre-calculus, AP statistics, calculus, linear algebra, differential equations, probability, analysis, proofs, etc.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LaTeX
+* Python
+* Java
+* Bash and Linux
+* Minitab
 
 Publications
 ======
@@ -54,6 +50,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Math Lab coordinator, 2020
+  * Managed the transition to give Math Lab instruction online during COVID-19 in Winter 2020. Coordinated calendars for about 60 grad students, created a GauchoSpace page for students to find information. 
